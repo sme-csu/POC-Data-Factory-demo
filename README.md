@@ -1,4 +1,4 @@
-# POC-herbalife-demo
+# POC-Data-Factory-demo
 
 This demo requires several technologies that work together, including Data Factory, databricks and logicApp.
 
